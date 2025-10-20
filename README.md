@@ -39,3 +39,4 @@ CAPAlytics/
 ├─ .env.example
 ├─ .gitignore
 └─ README.md
+
